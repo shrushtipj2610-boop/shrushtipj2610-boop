@@ -76,6 +76,12 @@ Collection of DSA and problem-solving solutions.
 🌐 Portfolio: https://shrushtijadhav-portfolio.vercel.app
 
 ---
+<p align="center">
+  <a href="https://drive.google.com/file/d/17WsQvTzusLN4U4eIpewwKzVSWwUNO3Id/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-success?style=for-the-badge" />
+  </a>
+</p>
+
 
 ## ⚡ Fun Fact
 
